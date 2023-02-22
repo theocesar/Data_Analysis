@@ -4,4 +4,4 @@
 
 ## Objective:
 
-The goal of this project was to analyze a product sales dataset with the pandas library.
+The goal of this project was to analyze a dataset of product sales with the pandas library.
